@@ -1,0 +1,2 @@
+Intel(R)Xeon(R)CPUE5-1620v3@3.50GHz:regular:20092
+12thGenIntel(R)Core(TM)i7-12650H:regular:8857
